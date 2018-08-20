@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: aalekseev
- * Date: 20.08.18
- * Time: 18:46
- */
 
 class LargeNumbers
 {
